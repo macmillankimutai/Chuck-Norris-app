@@ -1,3 +1,8 @@
-#### React Redux Starter Template
+# Chuck norris api
 
-This project contains a boilerplate template created from the create-react-app library and configured along with redux.
+This is a project that utilizes the chuck norris api.It displays information from the api.
+
+## Setup
+npm install
+mpn run build
+npm start
